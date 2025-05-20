@@ -1,7 +1,7 @@
 ## nan (use tags where you link forward each one)
 
-- [Towards Long-Context Time Series Foundation Models With A Handful Of Additional Parameters](NeurIPS 2024 Workshop on Fine-Tuning in Modern Machine Learning: Principles and Scalability); **Model Type:** Time-Series Foundation Model; **Domain:** Generic / Cross-domain; 
-- [General-Purpose Brain Foundation Models for Time-Series Neuroimaging Data](NeurIPS Workshop on Time Series in the Age of Large Models); **Model Type:** Time-Series Foundation Model; **Domain:** Healthcare / Biomedical; **Task:** Other / Unknown
+- [Towards Long-Context Time Series Foundation Models With A Handful Of Additional Parameters](NeurIPS); 2024, hyperlink: https://openreview.net/forum?id=a5EY4lz5ZG; Model Type: TSF; Domain: Forecast/Classification; 
+- [General-Purpose Brain Foundation Models for Time-Series Neuroimaging Data](NeurIPS); 2024, hyperlink: https://openreview.net/forum?id=HwDQH0r37I; Model Type: TSF; Domain: Healthcare / Biomedical; **Task:** Other / Unknown
 - TaKF $^{+} $: A versatile and parameter-efficient tuning for EEG foundation model; **Model Type:** Time-Series Foundation Model; **Domain:** Healthcare / Biomedical; **Task:** Other / Unknown
 - Beatrix: Out-of-Distribution Generalization of Large EEG Model via Invariant Contrastive Fine-Tuning; **Model Type:** Uncategorized; **Domain:** Healthcare / Biomedical; **Task:** Other / Unknown
 - Towards Adaptive Time Series Foundation Models Against Distribution Shift; **Model Type:** Time-Series Foundation Model; **Domain:** Generic / Cross-domain; **Task:** Other / Unknown
