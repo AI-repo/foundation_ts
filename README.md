@@ -1,7 +1,7 @@
 # Foundation Models for Time-Series
 
 <details>
-  <summary>📘 List of Foundation models for time-series sorted based on year </summary>
+  <summary> List of Foundation models for time-series sorted based on year </summary>
 
   👉 [Read more](sorted_yearly.md)
 
