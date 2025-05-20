@@ -1,4 +1,4 @@
-CheatSheet
+# Foundation Models for Time-Series
 
 <details>
   <summary>📘 List of Foundation models for time-series sorted based on year </summary>
