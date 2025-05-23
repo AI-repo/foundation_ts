@@ -1,23 +1,86 @@
-# Foundation Models for Time-Series
 
-<details>
-  <summary> List of Foundation models for time-series sorted based on year </summary>
+## Foundation models for time-series 
 
-  👉 [Read more](sorted_yearly.md)
+# Table of Contents
 
-</details>
+- [Foundation models for time-series](#foundation-models-for-time-series)
+  - [LLM-adapted methods](#llm-adapted-methods)
+    - [2025 paper and code application tasks](#2025-paper-and-code-application-tasks)
+    - [2024 paper and code application tasks](#2024-paper-and-code-application-tasks)
+    - [2023 paper and code application tasks](#2023-paper-and-code-application-tasks)
+  - [Purpose-built FMs](#purpose-built-fms)
+    - [2025 paper and code application tasks](#2025-paper-and-code-application-tasks-1)
+    - [2024 paper and code application tasks](#2024-paper-and-code-application-tasks-1)
+    - [2023 paper and code application tasks](#2023-paper-and-code-application-tasks-1)
+- [Deep learning models for time-series](#deep-learning-models-for-time-series)
+  - [2025 paper and code application tasks](#2025-paper-and-code-application-tasks-2)
+  - [2024 paper and code application tasks](#2024-paper-and-code-application-tasks-2)
+  - [2023 paper and code application tasks](#2023-paper-and-code-application-tasks-2)
+- [Machine learning models for time-series](#machine-learning-models-for-time-series)
+  - [2025 paper and code application tasks](#2025-paper-and-code-application-tasks-3)
+  - [2024 paper and code application tasks](#2024-paper-and-code-application-tasks-3)
+  - [2023 paper and code application tasks](#2023-paper-and-code-application-tasks-3)
 
-<details>
-  <summary>  List sorted based on  different domains and tasks </summary>
+---
 
-  👉 [Read more](sorted_domain_task.md)
+## Foundation models for time-series
 
-</details>
+### LLM-adapted methods
 
+#### 2025 paper and code application tasks
 
-<details>
-  <summary>  Foundation models for epilepsy </summary>
+(Add content here)
 
-  👉 [Read more](foundation_Model_Epilepsy.md)
+#### 2024 paper and code application tasks
 
-</details>
+(Add content here)
+
+#### 2023 paper and code application tasks
+
+(Add content here)
+
+### Purpose-built FMs
+
+#### 2025 paper and code application tasks
+
+(Add content here)
+
+#### 2024 paper and code application tasks
+
+(Add content here)
+
+#### 2023 paper and code application tasks
+
+(Add content here)
+
+---
+
+## Deep learning models for time-series
+
+### 2025 paper and code application tasks
+
+(Add content here)
+
+### 2024 paper and code application tasks
+
+(Add content here)
+
+### 2023 paper and code application tasks
+
+(Add content here)
+
+---
+
+## Machine learning models for time-series
+
+### 2025 paper and code application tasks
+
+(Add content here)
+
+### 2024 paper and code application tasks
+
+(Add content here)
+
+### 2023 paper and code application tasks
+
+(Add content here)
