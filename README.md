@@ -25,36 +25,22 @@
 
 ## Foundation models for time-series
 
-### LLM-adapted methods
+### Purpose-built Foundation Models Time-Series (FMTS)
+| Title | Year | Application | Code |
+|-------|------|-----------|-------|
 
-#### 2025 paper and code application tasks
-MM-FM: Multimodal Foundation Models
-| Title | Year | Publisher |
-|-------|------|-----------|
-| [Context-Aware Probabilistic Modeling with LLM for Multimodal Time Series Forecasting ](https://arxiv.org/abs/2505.10774) | 2025 | MM-FM (Text+TS) | Forecast
-| [EpilepsyFM: Foundation Model for Learning Generalized Epileptic Representations from EEG and SEEG Signals](https://openreview.net/forum?id=tfTGSm31F7) | 2025 | ICLR |
+### LLM-adapted Foundation Models Time-Series (LLM-TS)
+| Title | Year | Application | Code |
+|-------|------|-----------|-------|
 
-#### 2024 paper and code application tasks
+### Multi-Modal Foundation Models for Time-Series (Text + Time-Series) (MMFM-TS)
+| Title | Year | Application | Code |
+|-------|------|-----------|-------|
+| [Context-Aware Probabilistic Modeling with LLM for Multimodal Time Series Forecasting ](https://arxiv.org/abs/2505.10774) | 2025 | Forecast | |
+| []() | 202 |  |   |
+| []() | 202 |  |   |
 
-(Add content here)
 
-#### 2023 paper and code application tasks
-
-(Add content here)
-
-### Purpose-built FMs
-
-#### 2025 paper and code application tasks
-
-(Add content here)
-
-#### 2024 paper and code application tasks
-
-(Add content here)
-
-#### 2023 paper and code application tasks
-
-(Add content here)
 
 ---
 
