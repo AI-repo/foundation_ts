@@ -3,9 +3,9 @@
 ### Table of Contents
 
 - [Foundation models for time-series](#foundation-models-for-time-series)
-- [Purpose-built Foundation Models Time-Series (FMTS)](#purpose-built-foundation-models-time-series-fmts)
-- [LLM-adapted Foundation Models Time-Series (LLM-TS)](#llm-adapted-foundation-models-time-series-llm-ts)
-- [Multi-Modal Foundation Models for Time-Series (Text + Time-Series) (MMFM-TS)](#multi-modal-foundation-models-for-time-series-text-time-series-mmfm-ts)
+  - [Purpose-built Foundation Models Time-Series (FMTS)](#purpose-built-foundation-models-time-series-fmts)
+  - [LLM-adapted Foundation Models Time-Series (LLM-TS)](#llm-adapted-foundation-models-time-series-llm-ts)
+  - [Multi-Modal Foundation Models for Time-Series (Text + Time-Series) (MMFM-TS)](#multi-modal-foundation-models-for-time-series-text-time-series-mmfm-ts)
 
 - [Deep learning models for time-series](#deep-learning-models-for-time-series)
 
