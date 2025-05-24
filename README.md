@@ -40,6 +40,8 @@
 | [EEG-CLIP: Learning EEG representations from natural language descriptions](https://arxiv.org/pdf/2503.16531?) | 2025 |Classification | [code](https://github.com/tidiane-camaret/EEGClip)  |
 | [MTEEG: A Multi-Task Learning Framework for Enhanced Electroencephalography Analysis Using Low-Rank Adaptation ](https://openreview.net/forum?id=V5lBNcD65H) | 2025 | Classification, Detection |   |
 | [Improving Foundation Models on Electronic Health Records](https://search.proquest.com/openview/e60e662f5922b5f0d3549e30814466f5/1?pq-origsite=gscholar&cbl=18750&diss=y) | 2025 | Classification |   |
+| [CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning](https://ojs.aaai.org/index.php/AAAI/article/view/34082) | 2025 | Forecast |  [code](https://github.com/Hank0626/CALF) |
+| [Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation](https://arxiv.org/abs/2505.02138) | 2025 | Forecast | [code](https://github.com/ChenxiLiu-HNU/TimeKD)  |
 | []() | 202 |  |   |
 | []() | 202 |  |   |
 
