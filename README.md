@@ -9,7 +9,7 @@
 
 - [Deep learning models for time-series](#deep-learning-models-for-time-series)
 
-- [Machine learning models for time-series](#machine-learning-models-for-time-series)
+- [Surveys and review papers](#surveys-review-papers)
 
 ---
 
