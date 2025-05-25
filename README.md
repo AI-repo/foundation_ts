@@ -10,6 +10,7 @@
 - [Deep learning models for time-series](#deep-learning-models-for-time-series)
 
 - [Surveys and review papers](#surveys-review-papers)
+- [Repositories](#repositories)
 
 ---
 
@@ -47,7 +48,7 @@
 
 ---
 
-## Deep learning models for time-series
+## Surveys and review papers
 | Title | Year | Application | Code |
 |---------------------------------------------------------------------------------------------------------------------------|------|----------|-------|
 | []() | 202 |  |   |
@@ -55,8 +56,6 @@
 
 ---
 
-## Machine learning models for time-series
-| Title | Year | Application | Code |
-|---------------------------------------------------------------------------------------------------------------------------|------|----------|-------|
-| []() | 202 |  |   |
+## Repositoriess
+[Time Series Forecasting and Deep Learning](https://github.com/DaoSword/Time-Series-Forecasting-and-Deep-Learning?tab=readme-ov-file#Blogs)  
 
