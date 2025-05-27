@@ -19,12 +19,23 @@
 #### Purpose-built Foundation Models Time-Series (FMTS)
 | Title | Year | Application | Code |
 |---------------------------------------------------------------------------------------------------------------------------|------|----------|-------|
+
+| [Only the Curve Shape Matters: Training Foundation Models for Zero-Shot Multivariate Time Series Forecasting through Next Curve Shape Prediction](https://arxiv.org/abs/2402.07570) | 2024 | Forecast |  [Code](https://github.com/cfeng783/GTT) |
+| [ViTime: Foundation Model for Time Series Forecasting Powered by Vision](https://arxiv.org/abs/2407.07311) | 2025 | Forecast |   |
+| [Foundts: Comprehensive and unified benchmarking of foundation models for time series forecasting ](https://arxiv.org/abs/2410.11802) | 2025 | Forecast |   |
+| []() | 202 |  |   |
+| []() | 202 |  |   |
+| []() | 202 |  |   |
+| []() | 202 |  |   |
+| []() | 202 |  |   |
+| []() | 202 |  |   |
+| []() | 202 |  |   |
 | [Foundation Models Knowledge Distillation For Battery Capacity Degradation Forecast](https://arxiv.org/pdf/2505.08151?) | 2025 | Forecast|[code](https://github.com/sjtu-chan-joey/Battery-Timer) |
 | [Flexible Patched Brain Transformer model for EEG decoding](https://www.nature.com/articles/s41598-025-86294-3.pdf) | 2025 | Classification | [code](https://github.com/timonkl/PatchedBrainTransformer)  |
 | [Assessing the Capabilities of Large Brainwave Foundation Models](https://openreview.net/pdf?id=ADU3uNKLLJ) | 2025 | Classification  |   |
 | [Large cognition model: Towards pretrained eeg foundation model](https://arxiv.org/abs/2502.17464) | 2025|Classification  |   |
 | [ALFEE: Adaptive Large Foundation Model for EEG Representation](https://arxiv.org/abs/2505.06291) | 2025 | Classification |   |
-| []() | 202 |  |   |
+| [Visionts: Visual masked autoencoders are free-lunch zero-shot time series forecasters](https://arxiv.org/abs/2408.17253) | 2025 | Forecast | [Code](https://github.com/Keytoyze/VisionTS)  |
 
 #### LLM-adapted Foundation Models Time-Series (LLM-TS)
 | Title | Year | Application | Code |
