@@ -7,9 +7,8 @@
   - [LLM-adapted Foundation Models Time-Series (LLM-TS)](#llm-adapted-foundation-models-time-series-llm-ts)
   - [Multi-Modal Foundation Models for Time-Series (Text + Time-Series) (MMFM-TS)](#multi-modal-foundation-models-for-time-series-text-time-series-mmfm-ts)
 
-- [Deep learning models for time-series](#deep-learning-models-for-time-series)
-
 - [Surveys and review papers](#surveys-review-papers)
+  
 - [Repositories](#repositories)
 
 ---
@@ -26,7 +25,7 @@
 | [Timedit: General-purpose diffusion transformers for time series foundation model](https://arxiv.org/abs/2409.02322) | 2024 | Forecast, Anomaly |   |
 | [Moment: A family of open time-series foundation models](https://arxiv.org/abs/2402.03885) | 2024 | Forecast, Classification | [Code](https://github.com/moment-timeseries-foundation-model/moment-research)  |
 | [NuwaTS: a Foundation Model Mending Every Incomplete Time Series](https://arxiv.org/abs/2405.15317) | 2024 | Forecast  | [Code](https://github.com/Chengyui/NuwaTS)  |
-| []() | 202 |  |   |
+| [Unify and Anchor: A Context-Aware Transformer for Cross-Domain Time Series Forecasting](https://arxiv.org/abs/2503.01157) | 2025 | Forecast |   |
 | [Foundation Models Knowledge Distillation For Battery Capacity Degradation Forecast](https://arxiv.org/pdf/2505.08151?) | 2025 | Forecast|[code](https://github.com/sjtu-chan-joey/Battery-Timer) |
 | [Flexible Patched Brain Transformer model for EEG decoding](https://www.nature.com/articles/s41598-025-86294-3.pdf) | 2025 | Classification | [code](https://github.com/timonkl/PatchedBrainTransformer)  |
 | [Assessing the Capabilities of Large Brainwave Foundation Models](https://openreview.net/pdf?id=ADU3uNKLLJ) | 2025 | Classification  |   |
@@ -39,9 +38,8 @@
 |---------------------------------------------------------------------------------------------------------------------------|------|----------|-------|
 | [Llm4ts: Aligning pre-trained llms as data-efficient time-series forecasters](https://dl.acm.org/doi/abs/10.1145/3719207) | 2025 | Forecast | [Code](https://github.com/blacksnail789521/LLM4TS)  |
 | [Time-ffm: Towards lm-empowered federated foundation model for time series forecasting](https://arxiv.org/abs/2405.14252) | 2024 | Forecast |   |
-| [Are language models actually useful for time series forecasting? ](https://proceedings.neurips.cc/paper_files/paper/2024/hash/6ed5bf446f59e2c6646d23058c86424b-Abstract-Conference.html) | 2024 | Forecast | [Code](https://github.com/BennyTMT/LLMsForTimeSeries) |
-| [Understanding Why Large Language Models Can Be Ineffective in Time Series Analysis: The Impact of Modality Alignment
-](https://arxiv.org/abs/2410.12326) | 2025 | Forecast, Classification, Anomaly |   |
+| [Are language models actually useful for time series forecasting? ](https://arxiv.org/abs/2406.16964) | 2024 | Forecast | [Code](https://github.com/BennyTMT/LLMsForTimeSeries) |
+| [Understanding Why Large Language Models Can Be Ineffective in Time Series Analysis: The Impact of Modality Alignment](https://arxiv.org/abs/2410.12326) | 2025 | Forecast, Classification, Anomaly |   |
 | [Time-llm: Time series forecasting by reprogramming large language models](https://arxiv.org/abs/2310.01728) | 2023 | Forecast |  [Code](https://github.com/KimMeen/Time-LLM) |
 
 #### Multi-Modal Foundation Models for Time-Series (Text + Time-Series) (MMFM-TS)
