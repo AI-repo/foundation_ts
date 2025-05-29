@@ -70,10 +70,19 @@
 |[Foundation Models for Time Series: A Survey](https://arxiv.org/abs/2504.04011) | 2025 |
 |[Empowering Time Series Analysis with Synthetic Data: A Survey and Outlook in the Era of Foundation Models ](https://arxiv.org/abs/2503.11411) |2025 |
 |[Foundts: Comprehensive and unified benchmarking of foundation models for time series forecasting](https://arxiv.org/abs/2410.11802) | 2024 |
+|[A comprehensive survey of deep learning for time series forecasting: architectural diversity and open challenges](https://link.springer.com/article/10.1007/s10462-025-11223-9) | 2025 |
+|[Large models for time series and spatio-temporal data: A survey and outlook](https://arxiv.org/abs/2310.10196) | 2023 |
+ |[A Comprehensive Survey of Time Series Forecasting: Concepts, Challenges, and Future Directions](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174430535.53879341) | 2025 |
+|[Timedit: General-purpose diffusion transformers for time series foundation model](https://arxiv.org/abs/2409.02322) | 2024 |
+|[]() | 2024 |
+|[]() | 2024 |
+
+### Multimodality
+| Title | Year |
+|---------------------------------------------------------------------------------------------------------------------------|------|
 |[Multi-modal Time Series Analysis: A Tutorial and Survey](Multi-modal Time Series Analysis: A Tutorial and Survey) | 2025 |
-|[]() | 2024 |
-|[]() | 2024 |
-|[]() | 2024 |
+|[How can time series analysis benefit from multiple modalities? a survey and outlook](https://arxiv.org/abs/2503.11835) | 2025 |
+|[Foundation Models for Spatio-Temporal Data Science:A Tutorial and Survey](https://arxiv.org/abs/2503.13502) | 2025 |
 |[]() | 2024 |
 |[]() | 2024 |
 |[]() | 2024 |
