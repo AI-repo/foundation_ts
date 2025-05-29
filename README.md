@@ -69,11 +69,17 @@
 |[A survey of deep learning and foundation models for time series forecasting](https://arxiv.org/abs/2401.13912) | 2024 |
 |[Foundation Models for Time Series: A Survey](https://arxiv.org/abs/2504.04011) | 2025 |
 |[Empowering Time Series Analysis with Synthetic Data: A Survey and Outlook in the Era of Foundation Models ](https://arxiv.org/abs/2503.11411) |2025 |
+|[Foundts: Comprehensive and unified benchmarking of foundation models for time series forecasting](https://arxiv.org/abs/2410.11802) | 2024 |
+|[Multi-modal Time Series Analysis: A Tutorial and Survey](Multi-modal Time Series Analysis: A Tutorial and Survey) | 2025 |
+|[]() | 2024 |
+|[]() | 2024 |
+|[]() | 2024 |
+|[]() | 2024 |
 |[]() | 2024 |
 |[]() | 2024 |
 
 ---
 
-## Repositories
+## Repositories for deep time-series models
 [Time Series Forecasting and Deep Learning](https://github.com/DaoSword/Time-Series-Forecasting-and-Deep-Learning?tab=readme-ov-file#Blogs)  
-[Time Series Library (TSLib)](https://github.com/thuml/Time-Series-Library)
+[Deep Time Series Models: A Comprehensive Survey and Benchmark](https://github.com/thuml/Time-Series-Library)
