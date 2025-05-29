@@ -49,7 +49,6 @@
 | Title | Year | Application | Code |
 |---------------------------------------------------------------------------------------------------------------------------|------|--------|-------|
 | [S2IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting](https://openreview.net/forum?id=qwQVV5R8Y7) | 2025 | Forecast | [Code](https://github.com/panzijie825/S2IP-LLM) |
-| []() | 202 |  |   |
 | [Chattime: A unified multimodal time series foundation model bridging numerical and textual data](https://ojs.aaai.org/index.php/AAAI/article/view/33384) | 2025 | Forecast |  [Code](https://github.com/ForestsKing/ChatTime) |
 | [Context-Aware Probabilistic Modeling with LLM for Multimodal Time Series Forecasting](https://arxiv.org/abs/2505.10774) | 2025 | Forecast |       |
 | [ChronoSteer: Bridging Large Language Model and Time Series Foundation Model via Synthetic Data](https://arxiv.org/pdf/2505.10083) | 2025 | Forecast |   |
@@ -75,19 +74,20 @@
 |[Large models for time series and spatio-temporal data: A survey and outlook](https://arxiv.org/abs/2310.10196) | 2023 |
  |[A Comprehensive Survey of Time Series Forecasting: Concepts, Challenges, and Future Directions](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174430535.53879341) | 2025 |
 |[Timedit: General-purpose diffusion transformers for time series foundation model](https://arxiv.org/abs/2409.02322) | 2024 |
-
 |[]() | 2024 |
 
 ### Multimodality
 | Title | Year |
 |---------------------------------------------------------------------------------------------------------------------------|------|
-|[Multi-modal Time Series Analysis: A Tutorial and Survey](Multi-modal Time Series Analysis: A Tutorial and Survey) | 2025 |
+|[Multi-modal Time Series Analysis: A Tutorial and Survey](https://arxiv.org/abs/2503.13709) | 2025 |
 |[How can time series analysis benefit from multiple modalities? a survey and outlook](https://arxiv.org/abs/2503.11835) | 2025 |
 |[Foundation Models for Spatio-Temporal Data Science:A Tutorial and Survey](https://arxiv.org/abs/2503.13502) | 2025 |
 |[]() | 2024 |
 |[]() | 2024 |
 
 ### Discuss
+| Title | Year |
+|---------------------------------------------------------------------------------------------------------------------------|------|
 |[A comprehensive survey of deep learning for multivariate time series forecasting: A channel strategy perspective](https://arxiv.org/abs/2502.10721) | 2025 |
 
 ---
