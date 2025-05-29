@@ -44,6 +44,8 @@
 | [Are language models actually useful for time series forecasting? ](https://arxiv.org/abs/2406.16964) | 2024 | Forecast | [Code](https://github.com/BennyTMT/LLMsForTimeSeries) |
 | [Understanding Why Large Language Models Can Be Ineffective in Time Series Analysis: The Impact of Modality Alignment](https://arxiv.org/abs/2410.12326) | 2025 | Forecast, Classification, Anomaly |   |
 | [Time-llm: Time series forecasting by reprogramming large language models](https://arxiv.org/abs/2310.01728) | 2023 | Forecast |  [Code](https://github.com/KimMeen/Time-LLM) |
+|[LTSM-Bundle: A Toolbox and Benchmark on Large Language Models for Time Series Forecasting]()|2025| Forecast |[Code](https://github.com/datamllab/ltsm) |
+
 
 #### Multi-Modal Foundation Models for Time-Series (Text + Time-Series) (MMFM-TS)
 | Title | Year | Application | Code |
@@ -97,6 +99,9 @@
 |[Towards Adaptive Time Series Foundation Models Against Distribution Shift](https://openreview.net/forum?id=YhIpTdrUDY) | 2025 |
 |[General Time-series Model for Universal Knowledge Representation of Multivariate Time-Series data](https://arxiv.org/abs/2502.03264)| 2025 |
 |[Time Series Foundational Models: Their Role in Anomaly Detection and Prediction](https://arxiv.org/abs/2412.19286)|2024|
+|[Uncertainty-aware Fine-tuning on Time Series Foundation Model for Anomaly Detection](https://openreview.net/forum?id=W1wlE4bPqP) | 2025 |
+|[TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster](https://arxiv.org/abs/2503.07649) |2025 |
+
 
 ---
 
