@@ -106,7 +106,11 @@
 ---
 
 ## Repositories for deep time-series models
-[Time Series Forecasting and Deep Learning](https://github.com/DaoSword/Time-Series-Forecasting-and-Deep-Learning?tab=readme-ov-file#Blogs)  
-[Deep Time Series Models: A Comprehensive Survey and Benchmark](https://github.com/thuml/Time-Series-Library)
-[Awesome Time Series Forecasting/Prediction Papers](https://github.com/ddz16/TSFpaper?tab=readme-ov-file)
+| Title | Github |
+|---------------------------------------------------------------------------------------------------------------------------|------|
+|Time Series Forecasting and Deep Learning|[Github](https://github.com/DaoSword/Time-Series-Forecasting-and-Deep-Learning?tab=readme-ov-file#Blogs) 
+|Deep Time Series Models: A Comprehensive Survey and Benchmark|[Github](https://github.com/thuml/Time-Series-Library)
+|AI for time-series|[Github](https://github.com/wpf535236337/LLMs4TS)
+|Awesome Time Series Forecasting-Prediction Papers|[Github](https://github.com/ddz16/TSFpaper?tab=readme-ov-file)
+
 
