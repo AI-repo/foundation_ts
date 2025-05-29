@@ -94,6 +94,9 @@
 |[TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods](https://arxiv.org/abs/2403.20150) |2024|
 |[Comparative Analysis of Zero-Shot Capability of Time-Series Foundation Models in Short-Term Load Prediction](https://arxiv.org/abs/2412.12834) | 2024 |
 |[Mitigating Data Scarcity in Time Series Analysis: A Foundation Model with Series-Symbol Data Generation](https://arxiv.org/abs/2502.15466) |2025 |
+|[Towards Adaptive Time Series Foundation Models Against Distribution Shift](https://openreview.net/forum?id=YhIpTdrUDY) | 2025 |
+|[General Time-series Model for Universal Knowledge Representation of Multivariate Time-Series data](https://arxiv.org/abs/2502.03264)| 2025 |
+|[Time Series Foundational Models: Their Role in Anomaly Detection and Prediction](https://arxiv.org/abs/2412.19286)|2024|
 
 ---
 
