@@ -64,6 +64,7 @@
 ## Surveys and review papers
 | Title | Year |
 |---------------------------------------------------------------------------------------------------------------------------|------|
+|[Empowering Time Series Analysis with Large Language Models: A Survey](https://arxiv.org/abs/2402.03182) | 2024 |
 | [Foundation models for time series analysis: A tutorial and survey](https://dl.acm.org/doi/abs/10.1145/3637528.3671451) | 2024 |  
 |[A survey of time series foundation models: Generalizing time series representation with large language model](https://arxiv.org/abs/2405.02358) | 2024 |
 |[A survey of deep learning and foundation models for time series forecasting](https://arxiv.org/abs/2401.13912) | 2024 |
@@ -74,7 +75,7 @@
 |[Large models for time series and spatio-temporal data: A survey and outlook](https://arxiv.org/abs/2310.10196) | 2023 |
  |[A Comprehensive Survey of Time Series Forecasting: Concepts, Challenges, and Future Directions](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174430535.53879341) | 2025 |
 |[Timedit: General-purpose diffusion transformers for time series foundation model](https://arxiv.org/abs/2409.02322) | 2024 |
-|[]() | 2024 |
+
 |[]() | 2024 |
 
 ### Multimodality
@@ -85,7 +86,9 @@
 |[Foundation Models for Spatio-Temporal Data Science:A Tutorial and Survey](https://arxiv.org/abs/2503.13502) | 2025 |
 |[]() | 2024 |
 |[]() | 2024 |
-|[]() | 2024 |
+
+### Discuss
+|[A comprehensive survey of deep learning for multivariate time series forecasting: A channel strategy perspective](https://arxiv.org/abs/2502.10721) | 2025 |
 
 ---
 
