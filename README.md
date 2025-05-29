@@ -64,7 +64,8 @@
 | Title | Year |
 |---------------------------------------------------------------------------------------------------------------------------|------|
 |[Empowering Time Series Analysis with Large Language Models: A Survey](https://arxiv.org/abs/2402.03182) | 2024 |
-| [Foundation models for time series analysis: A tutorial and survey](https://dl.acm.org/doi/abs/10.1145/3637528.3671451) | 2024 |  
+|[Foundation models for time series analysis: A tutorial and survey](https://dl.acm.org/doi/abs/10.1145/3637528.3671451) | 2024 |  
+|[Large language models for time series: A survey](https://arxiv.org/abs/2402.01801)| 2024 |
 |[A survey of time series foundation models: Generalizing time series representation with large language model](https://arxiv.org/abs/2405.02358) | 2024 |
 |[A survey of deep learning and foundation models for time series forecasting](https://arxiv.org/abs/2401.13912) | 2024 |
 |[Foundation Models for Time Series: A Survey](https://arxiv.org/abs/2504.04011) | 2025 |
@@ -76,13 +77,12 @@
 |[Timedit: General-purpose diffusion transformers for time series foundation model](https://arxiv.org/abs/2409.02322) | 2024 |
 |[]() | 2024 |
 
-### Multimodality
+### Multimodal time-series
 | Title | Year |
 |---------------------------------------------------------------------------------------------------------------------------|------|
 |[Multi-modal Time Series Analysis: A Tutorial and Survey](https://arxiv.org/abs/2503.13709) | 2025 |
 |[How can time series analysis benefit from multiple modalities? a survey and outlook](https://arxiv.org/abs/2503.11835) | 2025 |
 |[Foundation Models for Spatio-Temporal Data Science:A Tutorial and Survey](https://arxiv.org/abs/2503.13502) | 2025 |
-|[]() | 2024 |
 |[]() | 2024 |
 
 ### Discuss
@@ -93,8 +93,7 @@
 |[Harnessing Vision Models for Time Series Analysis: A Survey](https://arxiv.org/abs/2502.08869) | 2025 |
 |[TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods](https://arxiv.org/abs/2403.20150) |2024|
 |[Comparative Analysis of Zero-Shot Capability of Time-Series Foundation Models in Short-Term Load Prediction](https://arxiv.org/abs/2412.12834) | 2024 |
-
-
+|[Mitigating Data Scarcity in Time Series Analysis: A Foundation Model with Series-Symbol Data Generation](https://arxiv.org/abs/2502.15466) |2025 |
 
 ---
 
