@@ -18,6 +18,11 @@
 #### Purpose-built Foundation Models Time-Series (FMTS)
 | Title | Year | Application | Code |
 |---------------------------------------------------------------------------------------------------------------------------|------|----------|-------|
+| [Tiny Time Mixers (TTMs): Fast Pre-trained Models
+for Enhanced Zero/Few-shot Forecasting of
+Multivariate Time Series](Tiny time mixers (ttms): Fast pre-trained models for enhanced zero/few-shot forecasting of multivariate time series ) | 2024 | Forecast |  [Code](https://github.com/ibm-granite/granite-tsfm) |
+| []() | 202 |  |   |
+| []() | 202 |  |   |
 | [Only the Curve Shape Matters: Training Foundation Models for Zero-Shot Multivariate Time Series Forecasting through Next Curve Shape Prediction](https://arxiv.org/abs/2402.07570) | 2024 | Forecast |  [Code](https://github.com/cfeng783/GTT) |
 | [ViTime: Foundation Model for Time Series Forecasting Powered by Vision](https://arxiv.org/abs/2407.07311) | 2025 | Forecast |   |
 | [Foundts: Comprehensive and unified benchmarking of foundation models for time series forecasting ](https://arxiv.org/abs/2410.11802) | 2025 | Forecast |   |
@@ -45,6 +50,8 @@
 #### Multi-Modal Foundation Models for Time-Series (Text + Time-Series) (MMFM-TS)
 | Title | Year | Application | Code |
 |---------------------------------------------------------------------------------------------------------------------------|------|--------|-------|
+| [S2IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting](https://openreview.net/forum?id=qwQVV5R8Y7) | 2025 | Forecast | [Code](https://github.com/panzijie825/S2IP-LLM) |
+| []() | 202 |  |   |
 | [Chattime: A unified multimodal time series foundation model bridging numerical and textual data](https://ojs.aaai.org/index.php/AAAI/article/view/33384) | 2025 | Forecast |  [Code](https://github.com/ForestsKing/ChatTime) |
 | [Context-Aware Probabilistic Modeling with LLM for Multimodal Time Series Forecasting](https://arxiv.org/abs/2505.10774) | 2025 | Forecast |       |
 | [ChronoSteer: Bridging Large Language Model and Time Series Foundation Model via Synthetic Data](https://arxiv.org/pdf/2505.10083) | 2025 | Forecast |   |
