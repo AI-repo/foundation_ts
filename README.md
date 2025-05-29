@@ -18,11 +18,9 @@
 #### Purpose-built Foundation Models Time-Series (FMTS)
 | Title | Year | Application | Code |
 |---------------------------------------------------------------------------------------------------------------------------|------|----------|-------|
-| [Tiny Time Mixers (TTMs): Fast Pre-trained Models
-for Enhanced Zero/Few-shot Forecasting of
-Multivariate Time Series](Tiny time mixers (ttms): Fast pre-trained models for enhanced zero/few-shot forecasting of multivariate time series ) | 2024 | Forecast |  [Code](https://github.com/ibm-granite/granite-tsfm) |
-| []() | 202 |  |   |
-| []() | 202 |  |   |
+| [Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-shot Forecasting of Multivariate Time Series](https://proceedings.neurips.cc/paper_files/paper/2024/hash/874a4d89f2d04b4bcf9a2c19545cf040-Abstract-Conference.html) | 2024 | Forecast |  [Code](https://github.com/ibm-granite/granite-tsfm) |
+| [Time Tracker: Mixture-of-Experts-Enhanced Foundation Time Series Forecasting Model with Decoupled Training Pipelines](https://arxiv.org/abs/2505.15151) | 2025 | Forecast |   |
+| [SeqFusion: Sequential Fusion of Pre-Trained Models for Zero-Shot Time-Series Forecasting](https://arxiv.org/abs/2503.02836) | 2025 | Forecast |  [Code](https://github.com/Tingji2419/SeqFusion/tree/main) |
 | [Only the Curve Shape Matters: Training Foundation Models for Zero-Shot Multivariate Time Series Forecasting through Next Curve Shape Prediction](https://arxiv.org/abs/2402.07570) | 2024 | Forecast |  [Code](https://github.com/cfeng783/GTT) |
 | [ViTime: Foundation Model for Time Series Forecasting Powered by Vision](https://arxiv.org/abs/2407.07311) | 2025 | Forecast |   |
 | [Foundts: Comprehensive and unified benchmarking of foundation models for time series forecasting ](https://arxiv.org/abs/2410.11802) | 2025 | Forecast |   |
