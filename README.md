@@ -89,6 +89,12 @@
 | Title | Year |
 |---------------------------------------------------------------------------------------------------------------------------|------|
 |[A comprehensive survey of deep learning for multivariate time series forecasting: A channel strategy perspective](https://arxiv.org/abs/2502.10721) | 2025 |
+|[Out-of-Distribution Generalization in Time Series: A Survey](https://arxiv.org/abs/2503.13868) | 2025|
+|[Harnessing Vision Models for Time Series Analysis: A Survey](https://arxiv.org/abs/2502.08869) | 2025 |
+|[TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods](https://arxiv.org/abs/2403.20150) |2024|
+|[Comparative Analysis of Zero-Shot Capability of Time-Series Foundation Models in Short-Term Load Prediction](https://arxiv.org/abs/2412.12834) | 2024 |
+
+
 
 ---
 
