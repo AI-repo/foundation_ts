@@ -62,10 +62,15 @@
 ---
 
 ## Surveys and review papers
-| Title | Year | Application | Code |
-|---------------------------------------------------------------------------------------------------------------------------|------|----------|-------|
-| []() | 202 |  |   |
-
+| Title | Year |
+|---------------------------------------------------------------------------------------------------------------------------|------|
+| [Foundation models for time series analysis: A tutorial and survey](https://dl.acm.org/doi/abs/10.1145/3637528.3671451) | 2024 |  
+|[A survey of time series foundation models: Generalizing time series representation with large language model](https://arxiv.org/abs/2405.02358) | 2024 |
+|[A survey of deep learning and foundation models for time series forecasting](https://arxiv.org/abs/2401.13912) | 2024 |
+|[Foundation Models for Time Series: A Survey](https://arxiv.org/abs/2504.04011) | 2025 |
+|[Empowering Time Series Analysis with Synthetic Data: A Survey and Outlook in the Era of Foundation Models ](https://arxiv.org/abs/2503.11411) |2025 |
+|[]() | 2024 |
+|[]() | 2024 |
 
 ---
 
