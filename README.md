@@ -112,5 +112,6 @@
 |Deep Time Series Models: A Comprehensive Survey and Benchmark|[Github](https://github.com/thuml/Time-Series-Library)
 |AI for time-series|[Github](https://github.com/wpf535236337/LLMs4TS)
 |Awesome Time Series Forecasting-Prediction Papers|[Github](https://github.com/ddz16/TSFpaper?tab=readme-ov-file)
+|LLM4TS: Large Language & Foundation Models for Time Series|[Github](https://github.com/liaoyuhua/LLM4TS)
 
 
