@@ -101,6 +101,7 @@
 |[Time Series Foundational Models: Their Role in Anomaly Detection and Prediction](https://arxiv.org/abs/2412.19286)|2024|
 |[Uncertainty-aware Fine-tuning on Time Series Foundation Model for Anomaly Detection](https://openreview.net/forum?id=W1wlE4bPqP) | 2025 |
 |[TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster](https://arxiv.org/abs/2503.07649) |2025 |
+|[Are Time-Series Foundation Models Deployment-Ready? A Systematic Study of Adversarial Robustness Across Domains]() ||
 
 
 ---
